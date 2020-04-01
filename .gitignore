@@ -1,0 +1,8 @@
+../.idea/
+local.py
+db.sqlite3
+insightjedi_app/__pycache__.*
+insightjedi/settings/local.py
+__pycache__.*
+__pycache__
+.idea/*
